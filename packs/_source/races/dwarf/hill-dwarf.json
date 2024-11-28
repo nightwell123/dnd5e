@@ -1,7 +1,7 @@
 {
   "_id": "UQiRQUTBcsz8gZU1",
-  "name": "Hill Dwarf",
-  "type": "race",
+  "nome": "Hill Dwarf",
+  "tipo": "raça",
   "img": "icons/environment/wilderness/cave-entrance-rocky.webp",
   "system": {
     "description": {
@@ -10,7 +10,7 @@
     },
     "source": {
       "custom": "",
-      "book": "SRD 5.1",
+      "Livro": "SRD 5.1",
       "page": "",
       "license": "CC-BY-4.0",
       "rules": "2014"
